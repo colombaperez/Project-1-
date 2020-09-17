@@ -1,0 +1,9 @@
+<p, head, body>
+{
+    color: #444;
+}
+
+body, head 
+{
+    margin: 200px;
+}
